@@ -1,10 +1,10 @@
-# 🍽️ Epicurean — Recipe Discovery App
+#  Epicurean — Recipe Discovery App
 
 Epicurean is a modern food recipe web application built with React that allows users to browse recipes, view detailed information, and manage favorites through an elegant and responsive user interface.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Browse and search recipes using an external API
 - View detailed recipe information
@@ -15,7 +15,7 @@ Epicurean is a modern food recipe web application built with React that allows u
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - React.js
 - React Router DOM
@@ -25,7 +25,7 @@ Epicurean is a modern food recipe web application built with React that allows u
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -36,7 +36,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🎨 UI & Design
+##  UI & Design
 
 - Warm, food-inspired color palette
 - Modern layout built with Tailwind CSS
@@ -45,7 +45,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Persist favorites using `localStorage`
 - Add recipe filters and categories
@@ -55,7 +55,7 @@ Make sure you have the following installed:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Anu Saha**
 
