@@ -47,7 +47,7 @@ This application is deployed using **Vercel** as a production build.
 - The application runs directly in the browser via Vercel’s global CDN
 
 ### Live Application
-🔗 **URL:** https://food-app.vercel.app
+🔗 **URL:** food-app-beige-chi.vercel.app
 
 ### Notes
 - Changes pushed to the `main` branch trigger automatic redeployment
