@@ -36,6 +36,26 @@ Make sure you have the following installed:
 
 ---
 
+## 🌐 Deployment
+
+This application is deployed using **Vercel** as a production build.
+
+### Deployment Details
+- The project is built using `npm run build`
+- Vercel serves the optimized static files from the `build` directory
+- No local server or terminal commands are required to access the live app
+- The application runs directly in the browser via Vercel’s global CDN
+
+### Live Application
+🔗 **URL:** https://food-app.vercel.app
+
+### Notes
+- Changes pushed to the `main` branch trigger automatic redeployment
+- The deployed app works independently of the local development environment
+- Suitable for sharing with recruiters and for portfolio use
+
+---
+
 ##  UI & Design
 
 - Warm, food-inspired color palette
